@@ -11,7 +11,7 @@ Below are links to participants' completed work on the `second and third section
 
 № | **Member** | **Links**
 | ------------ | ------------ | -------------
-1 | Gulia Isaeva | [Links will be here](http://example.net/)
+1 | Gulia Isaeva | [Links will be here](https://guliaisaeva.github.io/Summer-Challenge-My-PersonalPage-Html/)
 2 | Gulzhazy Tursunbekova | [Links will be here](http://example.net/)
 3 | Nadira Dzhumadylova | [Links will be here](http://example.net/) 
 4 | Alihan Dzhumaev | [Links will be here](http://example.net/)

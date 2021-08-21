@@ -19,7 +19,7 @@ Below are links to participants' completed work on the `second and third section
 6 | Chyngyz Ormoshev | [Links will be here](http://example.net/)
 7 | Abidin Kurmanbek uulu | [Links will be here](http://example.net/)
 8 | Bagdagul Biimyrzaeva | [Repository](https://github.com/Bagdagul/My_summerChallenge-PersonalPage)
-9 | Archabek Nurbek uulu | [Links will be here](http://example.net/)
+9 | Aizada Serkebaeva | [Links will be here](http://example.net/)
 
 
 

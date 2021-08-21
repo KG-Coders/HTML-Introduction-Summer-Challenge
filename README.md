@@ -15,7 +15,7 @@ Below are links to participants' completed work on the `second and third section
 2 | Gulzhazy Tursunbekova | [Links will be here](http://example.net/)
 3 | Nadira Dzhumadylova | [Links will be here](http://example.net/) 
 4 | Alihan Dzhumaev | [Links will be here](http://example.net/)
-5 | Archabek Nurbek uulu | [Links will be here](http://example.net/)
+5 | Archabek Nurbek uulu | [Personal Page](https://archabek07.github.io/Summer_Challenge--Personal_Page--Section_2-3/)
 6 | Chyngyz Ormoshev | [Links will be here](http://example.net/)
 7 | Abidin Kurmanbek uulu | [Links will be here](http://example.net/)
 8 | Bagdagul Biimyrzaeva | [Repository](https://github.com/Bagdagul/My_summerChallenge-PersonalPage)
